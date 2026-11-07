@@ -178,6 +178,4 @@ B.Tech – Electronics & Communication Engineering
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
-GitHub Profile
 
-LinkedIn Profile
